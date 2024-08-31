@@ -1,3 +1,5 @@
 # First project 
 <br>
-techstack - HTML and CSS
+copyright - Adarsh
+<br>
+Techstack used - HTML and CSS
